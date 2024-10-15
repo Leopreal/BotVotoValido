@@ -1,0 +1,11 @@
+# Manter quebras de linha consistentes
+* text=auto
+
+# Para arquivos JSON, garantir que utilizem LF
+*.json text eol=lf
+
+# Para arquivos JavaScript, garantir que utilizem LF
+*.js text eol=lf
+
+# Para arquivos Python, garantir que utilizem LF
+*.py text eol=lf
